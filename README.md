@@ -17,7 +17,7 @@ A Python-based Windows security tool designed to identify active keyloggers and 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/keylogger-detector.git](https://github.com/YOUR-USERNAME/keylogger-detector.git)
+   git clone [https://github.com/Sobhi-shobz/keylogger-detector.git](https://github.com/Sobhi-shobz/keylogger-detector.git)
    cd keylogger-detector
    
 ##**Create and activate a virtual environment:**
